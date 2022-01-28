@@ -12,6 +12,7 @@
 		B422F6F727A21728005FD730 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B422F6F627A21728005FD730 /* Assets.xcassets */; };
 		B422F6FA27A21728005FD730 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B422F6F927A21728005FD730 /* Preview Assets.xcassets */; };
 		B422F70127A3F1F8005FD730 /* ExAnim.swift in Sources */ = {isa = PBXBuildFile; fileRef = B422F70027A3F1F6005FD730 /* ExAnim.swift */; };
+		B422F70327A3F93C005FD730 /* ShowAndHideViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = B422F70227A3F93B005FD730 /* ShowAndHideViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		B422F6F627A21728005FD730 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B422F6F927A21728005FD730 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B422F70027A3F1F6005FD730 /* ExAnim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExAnim.swift; sourceTree = "<group>"; };
+		B422F70227A3F93B005FD730 /* ShowAndHideViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowAndHideViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				B422F6F227A2171F005FD730 /* AnimationApp.swift */,
 				B422F6F427A2171F005FD730 /* ContentView.swift */,
 				B422F70027A3F1F6005FD730 /* ExAnim.swift */,
+				B422F70227A3F93B005FD730 /* ShowAndHideViews.swift */,
 				B422F6F627A21728005FD730 /* Assets.xcassets */,
 				B422F6F827A21728005FD730 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B422F6F527A2171F005FD730 /* ContentView.swift in Sources */,
+				B422F70327A3F93C005FD730 /* ShowAndHideViews.swift in Sources */,
 				B422F70127A3F1F8005FD730 /* ExAnim.swift in Sources */,
 				B422F6F327A2171F005FD730 /* AnimationApp.swift in Sources */,
 			);
